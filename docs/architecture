@@ -10,7 +10,7 @@
                   ^
                   |
       +--------------------------+
-      | DC01 - Windows Server 2025|
+      | DC01 - Windows Server 2019|
       | AD DS / DNS / DHCP / RRAS |
       | NIC1: NAT (External)      |
       | NIC2: ADLAB (Internal)    |
