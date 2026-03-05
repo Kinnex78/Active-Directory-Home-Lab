@@ -5,3 +5,11 @@ Following with choosing the destinated password i've also unchecked "User must c
 
 Lastly, by rightclicking (or doubleclicking) on destinated User i navigated to "Member of" and clicked on "Add..." to type in "Domain Admin" in the large Textfield, the "object name to select"-field.
 ![Giving Admin-privilege](screenshots/15-giving-admin-privilege.png)
+
+After creating the Domain-Admin i proceeded with installing RRAS by navigating to "Add roles and features" and checking the box "Remote Access".
+![Checking box RAS](screenshots/16-choosing-ras.png)
+
+Also the same at "Role Services" by choosing "Routing" which also automatically checking the box "DirectAccess and VPN (RAS)"
+![Checking box Routing](screenshots/17-choosing-routing.png)
+
+After this, i continued to install those features.
