@@ -13,3 +13,9 @@ Also the same at "Role Services" by choosing "Routing" which also automatically 
 ![Checking box Routing](screenshots/17-choosing-routing.png)
 
 After this, i continued to install those features.
+
+Then i went on with heading to "Tools"->"Routing and Remote Access"->rightclicking on destinated server->"Configure and Enable Routing and Remote Access" and went for "Network address translation (NAT)".
+![Choose NAT](screenshots/18-choosing-nat.png)
+
+Following with the "Use this public interface"-> "EXTERNAL".
+![Choose public interface: EXTERNAL](screenshots/19-choosing-public-interface-external.png)
