@@ -1,5 +1,7 @@
 # architecture
 
+This lab simulates a small enterprise Active Directory environment using VirtualBox.
+
                  +----------+
                  | Internet |
                  +----------+     
