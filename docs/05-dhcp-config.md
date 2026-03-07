@@ -7,5 +7,7 @@ And here i installed DHCP Server, so that the Client gets an IP automatically at
 Then, i just authorized DHCP up here.
 ![Authorizing DHCP](screenshots/22-authorizing-dhcp-in-ad.png)
 
-Following to the authorization, i navigated to "Control panel" -> "Network and Sharing Center" -> "Change adapter settings" -> "INTERNAL(-adapter)" -> "Properties" -> "Internet Protocol Version 4(TCP/IPv4)" -> "Properties", and typed in a DHCP-scope.
-![Configuring DHCP-scope](screenshots/23-config-dhcp-scope.png)
+Following to the authorization, i navigated to "Windows Administrative Tools" -> double-click on "DHCP" -> right-click on "IPv4" 
+![Open New Scope Wizard](screenshots/23-open-new-scope-wizard.png)
+
+
