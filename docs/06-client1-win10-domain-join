@@ -1,1 +1,18 @@
+I started by Installing the Client.
+![Installation](screenshots/32-restarting-installation.png)
 
+When i prepared the join, i've first checked if DHCP is received on the Client. On the Screenshot you can see that DHCP is enabled.
+(But you can also see the first Error, which represents that the DNS isnt recognized properly.)
+![DHCP enabled](screenshots/30-checking-dhcp-recievement.png)
+
+After fixing the DNS-Problem u can read in 08-troubleshooting, i then started loging in with my Domain-Admin i created earlier on, and also typed in the password as well as the Domain name.
+![Domain-Join1](screenshots/31-domain-join-type-domain-infos.png)
+
+Then, i typed in the Domain Controller and the Computer Domain again.
+![Domain-Join2](screenshots/32-typing-in-domain-infos.png)
+
+and finally logged in with the User's credentials (Domain Admin)
+![Domain-Log-on](screenshots/33-logging-in-domain.png)
+
+So now it forces a restart.
+![Domain-Log-on-succeed](screenshots/34-joind-succeed-restart-now.png)
