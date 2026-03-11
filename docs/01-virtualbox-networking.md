@@ -1,25 +1,24 @@
 
-First I navigated through FIle->Tools->Networkmanager and went to the following Tab "NAT Network" to configure the external Network. Thus I created "NAT-LAB" and gave it a IPv4 Prefix and disabled DHCP, to set it up manually later on with the Server-Manager.
+First, I navigated to File → Tools → Network Manager and opened the NAT Network tab to configure the external network. I then created a network named “NAT-LAB”, assigned an IPv4 prefix, and disabled DHCP in order to configure the addressing manually later via Server Manager.
 
 ![VBox NAT-Network setup](screenshots/05-vbox-tools-network-config.png)
 
 
-Then after setting up the Server-Wizard, i've configured the Network Adapters. So in this case the first Tab as "External Network".
+After completing the Server Setup Wizard, I configured the network adapters. The first adapter was assigned to the External Network.
 
 ![Server Adapter 1](screenshots/01-vbox-adapter-extern-server.png)
 
 
-And the second one as "Internal Network".
+The second adapter was configured as the Internal Network.
 
 ![Server Adapter 2](screenshots/02-vbox-adapter-intern-server.png)
 
 
-And also the same behaviour with the Windows-10-Pro-Client.
-So: the "External Network".
+The same configuration was applied to the Windows 10 Pro client, where the first adapter was connected to the External Network.
 
 ![Client Adapter 1](screenshots/03-vbox-adapter-extern-client.png)
 
 
-And the "Internal Network".
+The second adapter of the client was configured as the Internal Network.
 
 ![Client Adapter 2](screenshots/04-vbox-adapter-intern-client.png)
