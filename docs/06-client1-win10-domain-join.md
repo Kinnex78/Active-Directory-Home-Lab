@@ -11,7 +11,7 @@ After fixing the DNS-Problem u can read in 08-troubleshooting, i then started lo
 Then, i typed in the Domain Controller and the Computer Domain again.
 ![Domain-Join2](screenshots/31-typing-in-domain-infos.png)
 
-and finally logged in with the User's credentials (Domain Admin)
+and finally logged in with the User's credentials (Domain Admin), but instad of "LAB/Wolffried-admin" i typed in wolffried-admin@lab.local.
 ![Domain-Log-on](screenshots/32-logging-in-domain.png)
 
 So now it forces a restart.
