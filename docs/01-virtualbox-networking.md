@@ -14,11 +14,6 @@ The second adapter was configured as the Internal Network.
 ![Server Adapter 2](screenshots/02-vbox-adapter-intern-server.png)
 
 
-The same configuration was applied to the Windows 10 Pro client, where the first adapter was connected to the External Network.
-
-![Client Adapter 1](screenshots/03-vbox-adapter-extern-client.png)
-
-
-The second adapter of the client was configured as the Internal Network.
+The only adapter of the client was configured as the Internal Network, to keep it isolated.
 
 ![Client Adapter 2](screenshots/04-vbox-adapter-intern-client.png)
