@@ -1,7 +1,7 @@
 
 First, I navigated to File → Tools → Network Manager and opened the NAT Network tab to configure the external network. I then created a network named “NAT-LAB”, assigned an IPv4 prefix, and disabled DHCP in order to configure the addressing manually later via Server Manager.
 
-![VBox NAT-Network setup](screenshots/05-vbox-tools-network-config.png)
+![VBox NAT-Network setup](screenshots/04-vbox-tools-network-config.png)
 
 
 After completing the Server Setup Wizard, I configured the network adapters. The first adapter was assigned to the External Network.
@@ -16,4 +16,4 @@ The second adapter was configured as the Internal Network.
 
 The only adapter of the client was configured as the Internal Network, to keep it isolated.
 
-![Client Adapter 2](screenshots/04-vbox-adapter-intern-client.png)
+![Client Adapter 2](screenshots/03-vbox-adapter-intern-client.png)
