@@ -1,5 +1,5 @@
 I started by Installing the Client.
-![Installation](screenshots/27-restarting-installation.png)
+![Installation](screenshots/29.3-restarting-installation.png)
 
 When i prepared the join, i've first checked if DHCP is received on the Client. On the Screenshot you can see that DHCP is enabled.
 (But you can also see the first Error, which represents that the DNS isnt recognized properly.)
