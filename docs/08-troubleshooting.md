@@ -1,6 +1,6 @@
 # 1.During installation Windows-10-Pro-Client
 
-So during the installation of Windows 10 Pro i encountered the first error, which tells me that it isnt able too boot properly.
+While installing Windows 10 Pro i encountered the first error, which tells me that it isnt able to boot properly.
 ![Windows-10-Pro-Machine cant boot](screenshots/29.1-install-error.png)
 
 First i've added one more core, because it might caused because it could lack of Processor-performance.
