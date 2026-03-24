@@ -1,1 +1,51 @@
+# Validation Tests
 
+## 1. DHCP Verification
+
+Command:
+ipconfig /all
+
+Expected:
+- IP address in 172.16.0.x range
+- DNS: 172.16.0.10
+- Gateway: 172.16.0.10
+
+---
+
+## 2. Domain Join
+
+Test:
+System joined to domain: lab.local
+
+Expected:
+Login with domain account works
+
+---
+
+## 3. DNS Resolution
+
+Command:
+nslookup lab.local
+
+Expected:
+Returns DC01 IP address
+
+---
+
+## 4. Network Connectivity
+
+Command:
+ping 172.16.0.10
+
+Expected:
+Successful reply
+
+---
+
+## 5. Internet Access
+
+Command:
+ping 8.8.8.8
+
+Expected:
+Successful reply via RRAS NAT
