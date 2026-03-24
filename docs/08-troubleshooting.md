@@ -1,4 +1,4 @@
-#1.During installation Windows-10-Pro-Client
+# 1.During installation Windows-10-Pro-Client
 
 So during the installation of Windows 10 Pro i encountered the first error, which tells me that it isnt able too boot properly.
 ![Windows-10-Pro-Machine cant boot](screenshots/29.1-install-error.png)
@@ -11,7 +11,7 @@ After trying again, the error still appears, so i powered off and startet the Wi
 
 ---
 
-#2.On Client, DNS isnt given as it should be
+# 2.On Client, DNS isnt given as it should be
 
 Next Error happend while trying to connect the Client with the Domain, lab.local. While an Error-Message appeared, as be seen in the following picture:
 ![Error: Domain couldn't be found](screenshots/29.4-error-domain-could-not-be-found.png)
