@@ -27,4 +27,4 @@ To be clear about the given DNS as it matches with the DC's IP, i headed over to
 As i parallel, tested "nslookup lab.local", it gave out the right dns, by now.
 ![nslookup lab.local on Client](screenshots/29.8-nslookup-lab.local-on-client.png)
 
-So now, it may be able to connect due to powerring on the DC.
+So now, it may be able to connect due to powering on the DC.
