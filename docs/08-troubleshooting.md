@@ -11,7 +11,7 @@ After trying again, the error still appears, so i powered off and startet the Wi
 
 [2.On Client, DNS isnt given as it should be]
 
-Next Error happend while trying to connect the Client with the Domain, lab.local. While an Error-Message appeared, as be seen in the followibg picture:
+Next Error happend while trying to connect the Client with the Domain, lab.local. While an Error-Message appeared, as be seen in the following picture:
 ![Error: Domain couldn't be found](screenshots/29.4-error-domain-could-not-be-found.png)
 
 As i proceed with checking if the DNS is matching, i saw by typing in: "ipconfig /all" 
