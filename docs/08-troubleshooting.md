@@ -11,6 +11,8 @@ First i've added one more core, because it might caused because it could lack of
 After trying again, the error still appears, so i powered off and startet the Win-Client. I immediatly pressed a key to restart the installation again.
 ![Renew Installation](screenshots/29.3-restarting-installation.png)
 
+Now, the installation continues.
+
 ---
 
 ## 2. On Client, DNS isnt given as it should be
