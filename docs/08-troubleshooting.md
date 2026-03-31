@@ -6,7 +6,7 @@ While installing Windows 10 Pro i encountered the first error, which tells me th
 ![Windows-10-Pro-Machine cant boot](screenshots/29.1-install-error.png)
 
 First i've added one more core, because it might caused because it could lack of Processor-performance.
-![Adding one more Core](screenshots/29.2-adding-one-core.png)
+![Adding one more Core](screenshots/29.2-adding-one-more-core.png)
 
 After trying again, the error still appears, so i powered off and startet the Win-Client. I immediatly pressed a key to restart the installation again.
 ![Renew Installation](screenshots/29.3-restarting-installation.png)
