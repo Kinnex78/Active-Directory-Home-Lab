@@ -91,9 +91,3 @@ The lab environment was successfully validated with the following checks:
 
 - Active Directory Lab (aashraymt)  
   https://github.com/aashraymt/AD-Lab  
-
-- DetectionLab (Chris Long)  
-  https://github.com/clong/DetectionLab  
-
-- GOAD (Orange Cyberdefense)  
-  https://github.com/Orange-Cyberdefense/GOAD  
